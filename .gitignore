@@ -1,0 +1,15 @@
+# Dependency directory
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS generated files
+.DS_Store
+
+# eslint
+.eslintcache
+
+#IDEA project files
+.idea
