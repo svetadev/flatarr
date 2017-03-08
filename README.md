@@ -6,7 +6,7 @@ EX:
  * in  : [1, [2, 3, [4, 5], [2, 4]], 3, [[2, [3, [1]], 4], [3]]]
  * out : [1, 2, 3, 4, 5, 2, 4, 3, 2, 3, 1, 4, 3]
  
- [![Build Status](https://travis-ci.org/svitlanaiefremova/flatarr.svg?branch=master)]
+ ![Build Status](https://travis-ci.org/svitlanaiefremova/flatarr.svg?branch=master)
 
 ## Install
 
